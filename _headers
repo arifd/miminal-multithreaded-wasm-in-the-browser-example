@@ -1,0 +1,4 @@
+# this is used by netlify to add certain headers to get around CORS problems
+/*
+  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Opener-Policy: same-origin
